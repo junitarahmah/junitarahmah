@@ -1,0 +1,14 @@
+{
+    "name": "user/tugas1musicplayer",
+    "description": "Program Tugas 1 Musik Player Dina Ayu Wardani",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "dinaayuwardani",
+            "email": "ayuwardanidina1@gmail.com"
+        }
+    ]
+}
